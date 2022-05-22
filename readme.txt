@@ -1,1 +1,1 @@
-Hello, Mike.
+Hello, Mike. I am new to programing
